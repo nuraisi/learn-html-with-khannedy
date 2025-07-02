@@ -1,0 +1,5 @@
+# Learn HTML with Eko Khannedy
+
+This repository contains materials from my learning journey in Fundamental HTML with Mr. Eko Khannedy. In this section, I learned the basics of HTML structure such as the use of tags like `<html>`, `<head>`, `<body>`, headings, paragraphs, hyperlinks, images, lists, and semantic elements. This content helped me build a strong understanding of how a web page is structured using interconnected HTML components.
+
+In addition, the repository includes a section on HTML Forms, which covers how to create input forms using elements such as `<input>`, `<textarea>`, `<select>`, and `<button>`. I also explored key attributes like `name`, `value`, `min`, `max`, and `required`, and learned how form data is submitted and processed. This topic is essential for understanding user interaction and data handling in web applications.
